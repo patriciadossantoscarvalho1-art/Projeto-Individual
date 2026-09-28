@@ -1,7 +1,6 @@
 <?php
 
-    require_once 'Professor.php';
-    require_once 'Exercicio.php';
+    
 
     class Treino {
         private string $nome;
