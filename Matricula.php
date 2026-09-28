@@ -1,7 +1,5 @@
 <?php
 
-    require_once 'Aluno.php';
-    require_once 'Plano.php';
 
     class Matricula {
         private int $numero;
