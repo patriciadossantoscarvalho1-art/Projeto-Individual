@@ -1,6 +1,6 @@
 <?php
 
-    require_once 'Matricula.php';
+    
 
     class Pagamento {
         private int $codigo;
